@@ -1,0 +1,12 @@
+#this is an <h1> tag
+*this text will be italic*
+__this will also be italic__
+* item 1
+* item 2
+  * item 2a
+  * item 2b
+1. item 1
+2. item 2
+    * item 3a
+    * item 3b
+![india flag](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg)
